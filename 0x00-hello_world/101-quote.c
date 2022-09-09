@@ -1,8 +1,9 @@
 #include <unistd.h>
 
 /**
- * main - Prints a text
- *
+ * main - prints exactly "and that piece of art is useful"
+ * - Dora Korpar, 2015-10-19",
+ *   followed by a new line, to the standard error.
  * Returns: Always 1 (Success)
  */
 int main(void)
