@@ -4,7 +4,7 @@
  * main - prints putchar
  * Desription: using the main function
  * this program prints "_putchar, followed by a new line
- * Returns: Always 0 (Success)
+ * Return: always 0
  */
 int main(void)
 {
