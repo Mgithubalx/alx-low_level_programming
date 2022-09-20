@@ -3,7 +3,8 @@
 /**
  * _strlen - returns the length of a string
  * @s: string
- *
+ * 
+ * Desricption: function that returns the length of a string
  * Returns: returns length as an integer;
  */
 
