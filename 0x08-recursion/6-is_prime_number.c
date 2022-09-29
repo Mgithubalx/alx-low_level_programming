@@ -16,11 +16,11 @@ int is_prime_number(int n)
 }
 
 /**
- * prime_num - returns 1 if input integer is a prime number
+ * prime_num - calculate if number is prime
  * @n: number to evaluate
  * @a: beginning of check
  *
- * Return 1 if n is prime, 0 otherwise
+ * Return: 1 if n is prime, 0 otherwise
  */
 int prime_num(int n, int a)
 {
