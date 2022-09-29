@@ -28,5 +28,5 @@ int act_sqrt_recursion(int n, int x)
 		return (-1);
 	if (x * x == n)
 		return (x);
-	return (act_sqrt_recusion(n, x + 1));
+	return (act_sqrt_recursion(n, x + 1));
 }
